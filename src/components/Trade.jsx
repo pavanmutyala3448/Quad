@@ -7,7 +7,7 @@ export default function Trade() {
       <h3>Best Price To Trade</h3>
       <div className="trade-window">
         <div className="trade-1">
-          <h2>0.83 %</h2>
+          <h2>0.83%</h2>
           <p>5 Mins</p>
         </div>
         <div className="trade-2">
